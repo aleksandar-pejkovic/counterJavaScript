@@ -1,0 +1,20 @@
+body{
+    margin: 0em;
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    width: 320px;
+    background-color: aquamarine;
+    margin-bottom: 0px;
+}
+
+button{
+    padding: 5px;
+    width: 100px;
+    margin-top: 0px;
+    color: aquamarine;
+    background-color: black;
+}
